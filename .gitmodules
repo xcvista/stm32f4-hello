@@ -1,0 +1,6 @@
+[submodule "platform"]
+	path = platform
+	url = git@github.com:SushiBits/platform-stm32f4.git
+[submodule "cmsis"]
+	path = cmsis
+	url = git@github.com:SushiBits/cmsis.git
